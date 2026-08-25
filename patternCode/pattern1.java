@@ -1,4 +1,4 @@
-package LogicBuilding;
+package LogicBuilding.patternCode;
 
 class pattern1 {
     public static void main(String[] args){

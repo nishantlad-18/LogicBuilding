@@ -1,4 +1,4 @@
-package LogicBuilding;
+package LogicBuilding.patternCode;
 import java.util.*;
 
 class Pattern2{

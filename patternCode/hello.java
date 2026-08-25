@@ -1,4 +1,4 @@
-package LogicBuilding;
+package LogicBuilding.patternCode;
 
 class Hello {
     public static void main(String[] args){
